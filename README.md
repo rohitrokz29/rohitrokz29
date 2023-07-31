@@ -19,6 +19,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rohitrokz29&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-![Visitor Count](https://profile-counter.glitch.me/rohitrokz29/count.svg)
 
+  #Thank You to be One of ![Visitor Count](https://profile-counter.glitch.me/rohitrokz29/count.svg) Visitors.
