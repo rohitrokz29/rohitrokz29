@@ -1,7 +1,7 @@
 <img align="center" src="banner.jpeg" alt="rohitrokz29" />
 
 # 💫 About Me:
-🔭 I’m currently working on Vigour Mania, A Health and Fitness Web App<br>👯 I’m looking to collaborate on ReactJS and NodeJS.<br>🤝 I’m looking for help with NodeJS<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about MERN Stack<br>
+🔭 I’m currently working on Vigour Mania, A Health and Fitness Web App<br>👯 I’m looking to collaborate on ReactJS and NodeJS.<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning Java <br>💬 Ask me about MERN Stack<br>
 
 
 ## 🌐 Socials:
