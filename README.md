@@ -1,7 +1,7 @@
 <img align="center" src="banner.jpeg" alt="rohitrokz29" />
 
 # 💫 About Me:
-🔭 I’m currently working on Vigour Mania, A Health and Fitness Web App<br>👯 I’m looking to collaborate on ReactJS and NodeJS.<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning Java <br>💬 Ask me about MERN Stack<br>
+🔭 I’m currently working on Orbit Connect, A Video Conferencing Progressive Web App.<br>👯 I’m looking to collaborate on ReactJS and NodeJS.<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning Java <br>💬 Ask me about MERN Stack<br>
 
 
 ## 🌐 Socials:
@@ -14,7 +14,6 @@
  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
